@@ -12,7 +12,7 @@ define("cars", [
 ]);
 
 
-echo[rand(0,6)];
+echo cars[rand(0,6)];
 
 ?> 
 
